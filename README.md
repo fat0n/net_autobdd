@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/bo5ygbf7fwij7qel?svg=true)](https://ci.appveyor.com/project/fat0n/net-autopatterns2)
+[![Build status](https://ci.appveyor.com/api/projects/status/batg6htqapx5bnui?svg=true)](https://ci.appveyor.com/project/fat0n/net-autobdd)
